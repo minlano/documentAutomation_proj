@@ -36,7 +36,7 @@ uuid :  고유 식별자(UUID) 생성
 ---
 ### 😊 사용 API</span>
 <p>$\huge{\rm{\color{#DD6565}사용할 때 api 키 받아서 사용해야함!}}$</p>
-![Static Badge](https://img.shields.io/badge/kakao-red?style=flag-square&logo=HTML5&logoColor=white)
+
 1️⃣ 카카오map
 2️⃣ RestAPI
 
