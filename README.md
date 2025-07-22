@@ -34,8 +34,8 @@ PIL :  이미지 파일 처리 및 조작
 uuid :  고유 식별자(UUID) 생성
 
 ---
-### 😊 사용 API <span style="color:red">(사용할 때 api 키 받아서 사용해야함!) </span>
-<p>$\huge{\rm{\color{#DD6565}이텔릭체,\ 큰글씨,\ 빨간색}}$사용할 때 api 키 받아서 사용해야함!</p>
+### 😊 사용 API</span>
+<p>$\huge{\rm{\color{#DD6565}사용할 때 api 키 받아서 사용해야함!}}$</p>
 
 1️⃣ 카카오map
 2️⃣ RestAPI
