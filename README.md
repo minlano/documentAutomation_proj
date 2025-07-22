@@ -35,7 +35,6 @@ uuid :  고유 식별자(UUID) 생성
 
 ---
 ### 😊 사용 API <span style="color:red">(사용할 때 api 키 받아서 사용해야함!) </span>
-<span style="color:red">(사용할 때 api 키 받아서 사용해야함!) </span>
 
 1️⃣ 카카오map
 2️⃣ RestAPI
